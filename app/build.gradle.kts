@@ -66,6 +66,9 @@ dependencies {
     // compose lifecycle
     implementation("androidx.lifecycle:lifecycle-runtime-compose:2.6.2")
 
+    // compose viewmodel
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
+
     // core
     implementation("androidx.core:core-ktx:1.12.0")
 }
