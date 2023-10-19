@@ -1,4 +1,4 @@
-package xyz.teamgravity.manual_dependency_injection.ui.theme
+package xyz.teamgravity.manual_dependency_injection.presentation.theme
 
 import android.app.Activity
 import android.os.Build
